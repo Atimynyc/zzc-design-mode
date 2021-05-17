@@ -1,9 +1,9 @@
-package com.zzc.factory.simple.carfactory;
+package com.zzc.design.factory.simple.carfactory;
 
-import com.zzc.factory.simple.car.SimpleBike;
-import com.zzc.factory.simple.car.SimpleCar;
-import com.zzc.factory.simple.car.SimpleMotorCycle;
-import com.zzc.factory.simple.car.SimpleTaxi;
+import com.zzc.design.factory.simple.car.SimpleBike;
+import com.zzc.design.factory.simple.car.SimpleCar;
+import com.zzc.design.factory.simple.car.SimpleMotorCycle;
+import com.zzc.design.factory.simple.car.SimpleTaxi;
 
 /**
  * 简单工厂模式
