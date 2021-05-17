@@ -4,10 +4,7 @@ import com.zzc.design.factory.abstr.color.Color;
 import com.zzc.design.factory.abstr.color.Green;
 import com.zzc.design.factory.abstr.color.Red;
 import com.zzc.design.factory.abstr.color.Yellow;
-import com.zzc.design.factory.abstr.shape.Circle;
-import com.zzc.design.factory.abstr.shape.Rectangle;
 import com.zzc.design.factory.abstr.shape.Shape;
-import com.zzc.design.factory.abstr.shape.Square;
 
 /**
  * 颜色工厂
